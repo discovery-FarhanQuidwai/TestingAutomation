@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_FindOutMoreLinkOnHomePage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>13d43a64-c1b1-4cd7-ad9a-a84a4cc2d83b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Login_Button_DialogBox</name>
+   <tag></tag>
+   <elementGuidId>c58270f2-30c9-4113-b2ca-17d04fbf96a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id=':Ripl6:']/div[2]/div[2]/div/div[2]/form/div/div[4]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ad27fbfa-b5ff-4e0d-a04c-8145e08e8492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-text</value>
+      <webElementGuid>bb027286-0d97-4773-a5b9-fb5034ae4d6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in</value>
+      <webElementGuid>c86649ec-2f83-4d75-93ce-662d1a0a969c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:Ripl6:&quot;)/div[@class=&quot;loginbanner__flexbox flex size-full&quot;]/div[@class=&quot;loginbanner__flexbox--right&quot;]/div[@class=&quot;loginbanner__parent_container&quot;]/div[@class=&quot;loginbanner__secondary_conatiner&quot;]/form[@class=&quot;loginbanner__body--form&quot;]/div[@class=&quot;loginbanner__body&quot;]/div[4]/div[@class=&quot;loginbanner__primary_btnstyle&quot;]/button[@class=&quot;z-0 group relative inline-flex items-center justify-center box-border appearance-none select-none whitespace-nowrap font-normal subpixel-antialiased overflow-hidden tap-highlight-transparent outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 px-4 min-w-20 h-10 text-small gap-2 rounded-medium [&amp;>svg]:max-w-[theme(spacing.8)] !transition-none data-[pressed=true]:scale-100 bg-default text-default-foreground data-[hover=true]:opacity-hover loginbanner__custom_btn button--reset button--size__medium button--type__primary w-full md:w-auto&quot;]/span[@class=&quot;button-text&quot;]</value>
+      <webElementGuid>24e70e18-6ae8-4815-8601-b29577844b31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id=':Ripl6:']/div[2]/div[2]/div/div[2]/form/div/div[4]/div/button/span</value>
+      <webElementGuid>a371d66c-d886-4938-b5a1-2202d38b41c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password?'])[1]/following::span[1]</value>
+      <webElementGuid>7d26e5f5-bed8-4978-bff6-1c46c874ba30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter your NAS details to proceed'])[1]/following::span[3]</value>
+      <webElementGuid>cba986b5-9cff-48fd-99fb-c05dd397976a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register now!'])[1]/preceding::span[1]</value>
+      <webElementGuid>dccfb480-55d0-4377-9a84-d56c57f78e6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
+      <webElementGuid>20f642a1-9802-43fb-bfa7-b2c5f92ff3ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[4]/div/button/span</value>
+      <webElementGuid>c2233ab6-b7a0-40c7-8066-1818e789a074</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Log in' or . = 'Log in')]</value>
+      <webElementGuid>b9d57d18-e9b9-4b07-95e6-69ec6636d3a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
