@@ -23,3 +23,5 @@ WebUI.scrollToElement(findTestObject('AfterLoginLandingPage/FindOutMore_TextOnHo
 
 WebUI.verifyElementText(findTestObject('AfterLoginLandingPage/FindOutMore_TextOnHomePage'), 'Find out more')
 
+WebUI.closeBrowser()
+
